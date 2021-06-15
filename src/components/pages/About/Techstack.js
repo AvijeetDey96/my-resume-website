@@ -13,7 +13,7 @@ import {
 function Techstack() {
   const comfortable = ['React.js', 'JavaScript', 'React Bootstrap', 'React Router', 'Redux', 'React Native', 'Angular', 'AngularJs', 'Ionic3', 'NodeJs'];
   const familiar = ['GraphQl', 'Mongodb', 'sass', 'Aws', 'nextjs', 'jest', 'webpack'];
-  const tools = ['VS Code', 'Chrome Dev Tool','Firebase','Netlify','Bit buckt','Notepad++'];
+  const tools = ['VS Code', 'Chrome Dev Tool','Netlify','Bit bucket','Notepad++'];
   return (
     <Row style={{ justifyContent: "center", padding: "50px 0 50px 0" }}>
       <Col xs={12} md={4} >

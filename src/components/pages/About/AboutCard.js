@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
           A self-motivated and enthusiastic web developer with a deep interest in 
           <span className="purple"> JavaScript</span>. To work in the Software industry with modern web technologies
-           of different local & multinational Software/ IT agencies of India 
+           of different local & multinational Software companies of India 
            and grow rapidly with increasing responsibilities.
            <br/><br/>
            Apart from coding, some other activities that I love to do!
