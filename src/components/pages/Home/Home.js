@@ -12,7 +12,7 @@ import Tilt from "react-parallax-tilt";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Home() {
- const pdf = 'https://drive.google.com/file/d/1YJaSfLUf3xMimFHQPDIc-EYQNjZwN7Sx/view?usp=sharing'
+ const pdf = 'https://drive.google.com/file/d/1xTngZfWOJYxPHdvmRrnkUmlqUQCP21_r/view?usp=sharing'
   return (
     <section>
       <Container fluid className="home-section" id="home">
@@ -61,7 +61,7 @@ function Home() {
      
       {/* <Home2 /> */}
       <About />
-      <Projects />
+      {/* <Projects /> */}
       <Resume />
     </section>
   );

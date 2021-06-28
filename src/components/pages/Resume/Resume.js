@@ -7,7 +7,7 @@ import axios from "axios";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
-  const pdf = 'https://drive.google.com/file/d/1YJaSfLUf3xMimFHQPDIc-EYQNjZwN7Sx/view?usp=sharing'
+  const pdf = 'https://drive.google.com/file/d/1xTngZfWOJYxPHdvmRrnkUmlqUQCP21_r/view?usp=sharing'
 
   
 
