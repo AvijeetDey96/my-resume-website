@@ -7,7 +7,7 @@ import axios from "axios";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
-  const pdf = 'https://drive.google.com/file/d/1xTngZfWOJYxPHdvmRrnkUmlqUQCP21_r/view?usp=sharing'
+  const pdf = 'https://drive.google.com/file/d/1MRzBBjPgMvcEN_PAINhnNAWlD4_YUq77/view?usp=sharing'
 
   
 
@@ -37,8 +37,8 @@ function Resume() {
               title="Xelpmoc Design and Tech Ltd - Software Engineer"
               date="August 2019 - October 2020"
               content={[
-                "  Led the team of 3 developers and responsible for design and development of the frontend part of the application .",
-                "● Implemented Lazy loading into the application that reduced the initial loading time and made it 40% faster on the browser .",
+                "Led the team of 3 developers and responsible for design and development of the frontend part of the application .",
+                "Implemented Lazy loading into the application that reduced the initial loading time and made it 40% faster on the browser .",
                 "Using RxJS (Switchmap Operator),I prevented unnecessary apirequests to the search route and made the application 15% more efficient",
                 " Designed responsive screens from wireframe and figma designs using HTML,CSS",
                 "Implemented signature pad and barcode scanner that makes the application more user friendly.",
